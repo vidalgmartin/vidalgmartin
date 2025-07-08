@@ -1,6 +1,11 @@
+<h1 align="center">Hi 👋 I'm Martin</h1>
+
 # 💫 About Me:
 I’m a recent Software Engineering graduate eager to kickstart my career in tech. I'm passionate about WebGL and determined to continue growing my skills in building full-stack web applications.
 
+# 🚀 Currently Doing:
+- Building full-stack web applications with React and ASP.NET
+- Expanding my knowledge of 3D web development with WebGL and Three.js
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-vidal-garibay-2b912929a/) 
