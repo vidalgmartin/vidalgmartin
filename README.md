@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Martin</h1>
 
 # 🐸 About Me:
-I’m a recent Software Engineering graduate eager to kickstart my career in tech. I'm passionate about WebGL and determined to continue growing my skills in building full-stack web applications.
+I’m a Software Engineering student eager to kickstart my career in tech. I'm passionate about WebGL and determined to continue growing my skills in building full-stack web applications.
 
 # 🚀 Currently Working On:
 - Building full-stack web applications with React and ASP.NET Core
