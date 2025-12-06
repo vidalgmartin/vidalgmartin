@@ -6,7 +6,7 @@ Junior Full-Stack Developer specializing in <b>React</b> and <b>ASP.NET Core</b>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - Recent **Software Engineering graduate**
 - Focused on **full-stack web development** using React, ASP.NET Core, and SQL
@@ -15,7 +15,7 @@ Junior Full-Stack Developer specializing in <b>React</b> and <b>ASP.NET Core</b>
 
 ---
 
-## 🚀 What I'm Currently Working On
+## What I'm Currently Working On
 
 - Building **full-stack applications** with React + ASP.NET Core
 - Improving **backend system design**, authentication, and database performance
@@ -23,7 +23,7 @@ Junior Full-Stack Developer specializing in <b>React</b> and <b>ASP.NET Core</b>
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 - C#, JavaScript (ES6+), Python, SQL
