@@ -26,13 +26,13 @@ Junior Full-Stack Developer specializing in <b>React</b> and <b>ASP.NET Core</b>
 ## Tech Stack
 
 **Languages**
-- C#, JavaScript (ES6+), Python, SQL
+- C#, JavaScript, Python, SQL
 
 **Frontend**
 - React, HTML, CSS
 
 **Backend**
-- ASP.NET Core, RESTful APIs, Entity Framework Core, Node.js
+- ASP.NET Core, Entity Framework Core, Node.js
 
 **Databases**
 - MySQL, SQLite, MongoDB
