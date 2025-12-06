@@ -12,7 +12,6 @@ Junior Full-Stack Developer specializing in <b>React</b> and <b>ASP.NET Core</b>
 - Focused on **full-stack web development** using React, ASP.NET Core, and SQL
 - Experienced with **RESTful APIs, authentication, and data modeling**
 - Comfortable working in **Linux (Ubuntu)** environments
-- Currently strengthening my **computer science fundamentals with C and CS50**
 
 ---
 
