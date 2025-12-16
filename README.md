@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋 I'm Martin</h1>
 
----
-
 ## About Me
 
 - Recent **Software Engineering graduate**
